@@ -456,7 +456,7 @@ footer {
 
 @media (max-width: 1200px) {
    header {
-      padding: 12px 20px;
+      padding: 12px 8px;
    }
 
    .navbar a {
